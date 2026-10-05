@@ -1,16 +1,18 @@
-## Hi there 👋
+# Qamar Javed
+**Data Engineer & AI Agent Developer** · Naples, Italy · open to remote roles
 
-<!--
-**qmmrjaved-hue/qmmrjaved-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science (Federico II, Naples) · MSc Physics · 9 years of data analysis and reporting
 
-Here are some ideas to get you started:
+I build Python data pipelines and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Opportunity Scout & Job Agent](https://github.com/qmmrjaved-hue/JOb-Agent)**: finds jobs and academic positions, reads official call PDFs, ranks openings against a CV with Gemini and tailors the CV. Runs daily on GitHub Actions.
+- **[Business Automation Agent](https://github.com/qmmrjaved-hue/biz_automation_agent)**: AI agent for small businesses in Italy. Invoice extraction, email triage, approvals, voice-to-SQL, ETL and reporting. Gemini function calling, Streamlit, SQLite/PostgreSQL, pytest, CI.
+- **[Voice2Query](https://voice2query-qmrjvd.streamlit.app)**: speech-to-SQL pipeline (Whisper, Gemini, SQLite, Streamlit).
+- **Bibliometrix ETL pipeline**: source-agnostic ETL (1 → 7 bibliographic sources) submitted to the open-source Bibliometrix repo as Pull Request #20.
+
+## Tech
+Python · SQL · pandas · ETL · REST APIs · Gemini API · Streamlit · SQLite · PostgreSQL · pytest · GitHub Actions · Tableau · Kafka · PySpark
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/qamar-javed-60ba7230) · qmmrjaved@gmail.com
